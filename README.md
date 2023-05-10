@@ -1,2 +1,6 @@
 # Lab11 Linux Hardening
-#
+## MANUAL SUMMARY
+
+Linux Hardening Techniques (LHT) involve implementing measures such as disabling unnecessary services and applications, keeping the system up-to-date with security patches, configuring firewalls to control network traffic, implementing strong password policies, configuring file system permissions to restrict access to sensitive files and directories, and user management best practices. There are also several Linux Hardening Tools available, including commands for configuring firewalls and automatic updates, as well as tools for implementing password policies, file system permissions, and user management.
+
+Security auditing tools like Lynis and OpenSCAP can help automate the process of identifying and eliminating security risks. Lynis is a security auditing tool that performs system and application security audits, vulnerability scanning, and configuration hardening. OpenSCAP is a framework for system automation and compliance management, providing a standardized approach for automating security controls and compliance checks. Both tools have their strengths and weaknesses, with Lynis being easy to use but potentially generating false positives or false negatives, and OpenSCAP requiring a thorough understanding of compliance policies and security standards. There are alternative tools available, including JShielder, Nessus, CIS-CAT, and AIDE.
