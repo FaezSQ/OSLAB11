@@ -1,1 +1,2 @@
-# OSLAB11
+# Lab11 Linux Hardening
+#
